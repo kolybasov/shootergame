@@ -1,0 +1,5 @@
+C:\Users\kolybasov\Desktop\Shooter_Project_Windows\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Berezoviy Vasiliy\Desktop\Shooter_Project_Windows\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\kolybasov\Desktop\Shooter_Project_Windows1\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\kolybasov\Desktop\kursova\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\kolybasov\Desktop\basov\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
