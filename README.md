@@ -9,5 +9,5 @@ Required
  1. .NET Framework Redist
  2. XNA Game Redist
 
-Original tutorial http://xbox.create.msdn.com/en-US/education/tutorial/2dgame/getting_started
+Original tutorial(http://xbox.create.msdn.com/en-US/education/tutorial/2dgame/getting_started)
 ---
